@@ -1,0 +1,59 @@
+Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+
+- Screens everywhere that the language to use to make
+- Prebuilt widgets
+- Takes from Web-Design
+- Widgets are like lego blocks (Floating action Button)
+
+Piece by piece built with code.
+
+Can Deploy to all devices
+
+--
+Why Choose:
+
+- Only one code base to rule them all
+- Only need to learn Dart
+- Similar to other languages
+- Hummingbird for web app
+- Android is an open source (could get complex)
+- Constraints self controlled
+- Similar to web ecosystem
+- Hot Reload (Instant change)
+- Future language
+- Access to Original Source Code
+-- Click to see the original code
+
+-- 
+Composed of
+
+Scaffold (blank screen)
+- AppBar
+- Container -> Column -> Row -> Text & Icon
+
+Lego Toy as Example
+
+--
+Top Tips for learning
+- Lessons around 10 minutes
+- Coding along with coders
+- Watch / understand / pause / code
+- Taking notes to self (Cornell Notes, Topic/Title - Notes - Keywords/Questions - Summary)
+- Show Stack-Overflow
+- Stuggling is good
+
+
+--
+Prerequisites
+- Computer
+- Android Studio or VS Code
+- Testing App / emluator
+- Codemagic (deploy final project)
+
+--
+
+Updating tips:
+- Theme dark: File/Setting/Apperance
+- Flutter: File/Setting -> Type Flutter -> select: Perfom hot reload on save & Format code on save
+- Keymapping: File/Settings/Keymapping -> example: new flutter -> alt+f
+
