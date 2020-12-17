@@ -57,3 +57,20 @@ Updating tips:
 - Flutter: File/Setting -> Type Flutter -> select: Perfom hot reload on save & Format code on save
 - Keymapping: File/Settings/Keymapping -> example: new flutter -> alt+f
 
+-----
+
+Enviorment:
+
+- Office
+- Intellgint (integrated development enviornment)
+- lib file (most common)
+- pubspec.yaml
+- x bring us in the tree of open file
+- Editor panel
+- Callapse
+- Dart Analysis (error issues)
+- Outline -> Tree structor - highlight that part in your code
+- Flutter Inspector -> Checking to see what is going on . x- you can select the elements in the app.
+- Layout rules shows lines and spacing
+- Console -> Error messages
+
